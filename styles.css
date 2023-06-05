@@ -19,9 +19,11 @@
 }
 
 .testimonial-1 .p2 {
-    text-align-last: right;
+    font-style: italic;
+    text-align: right;
 }
 
 .testimonial-2 .p2 {
-    text-align-last: right;
+    font-style: italic;
+    text-alignt: right;
 }
